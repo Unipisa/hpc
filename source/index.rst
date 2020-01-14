@@ -6,15 +6,16 @@
 Welcome to Unipi HPC Resources Documentation's documentation!
 =============================================================
 
+
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :numbered:
     :caption: Contents
     
     resources
     resources_request
     access
-    execute_interactive_job
+    usage/execute_interactive_job
 
 
 
