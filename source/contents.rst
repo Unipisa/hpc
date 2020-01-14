@@ -14,7 +14,7 @@ Welcome to Unipi HPC Resources Documentation's documentation!
     resources
     resources_request
     access
-   
+    execute_interactive_job
 
 
 
