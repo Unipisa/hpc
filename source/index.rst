@@ -9,9 +9,9 @@ Welcome to Unipi HPC Resources Documentation's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   source/index.rst
-   source/resource_request.rst
-   source/access.rst
+   source/index
+   source/resource_request
+   source/access
    :numbered:
 
 
