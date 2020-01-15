@@ -12,9 +12,10 @@ Welcome to Unipi HPC Resources Documentation's documentation!
     :numbered:
     :caption: Contents
     
-    resources
-    resources_request
-    access
+    info/about
+    info/resources
+    access/resources_request
+    access/access
     usage/execute_interactive_job
 
 

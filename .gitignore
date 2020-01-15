@@ -1,1 +1,3 @@
 build/
+# aspell backup files
+*.bak
