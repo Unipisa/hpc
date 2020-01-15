@@ -10,3 +10,4 @@ informatica,2,1,Intel(R) Xeon(R) Gold 5118 CPU @ 2.30GHz,48,192,384,,,,96
 informatica,1,1,Intel(R) Xeon(R) Gold 6132 CPU @ 2.60GHz,56,384,384,4,Testla T4,16,56
 ,2,1,AMD EPYC 7301 16-Core Processor,64,256,512,5,Testla T4,16,128
 TOT,20,120,2400,776,,32256,,,,8424
+

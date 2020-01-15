@@ -46,7 +46,7 @@ describe the generation of key pairs in the client sections for
 - :ref:`Windows <generating keys windows>` and
 - :ref:`macOS<generating keys macos>` (formerly OS X).
 
-.. include:: generating_keys_with_openssh.rst
-.. include:: generating_keys_with_putty.rst
-.. include:: generating_keys_with_openssh_on_os_x.rst
+.. .. include:: generating_keys_with_openssh.rst
+.. .. include:: generating_keys_with_putty.rst
+.. .. include:: generating_keys_with_openssh_on_os_x.rst
 
