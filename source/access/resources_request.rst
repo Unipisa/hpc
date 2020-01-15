@@ -8,10 +8,14 @@ To **request computing resources** please fill  this `request form <https://form
 To **contact administrators** please fill this `support form <https://forms.office.com/Pages/ResponsePage.aspx?id=MWtFxyCi9Ue-Ukc4KGcKoVkYUXAKGZRAiclN1st5aFpURUFSS083TTIzMFMzQkpKT0lORDlIMTdMRS4u>`_ .
 
 Restrictions
-**********************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Membership to `Università di Pisa <http://www.unipi.it>`_ is verified through 
 `Autenticazione UNIPI <https://authportal.unipi.it/>`_.
+
+
+Account liability
+*********************************
 
 .. warning::
 
