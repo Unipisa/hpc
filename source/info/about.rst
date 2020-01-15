@@ -9,10 +9,13 @@ The Unipi HPC Datacenter (**UnipiHPC**) is ...
 
 San Piero a Grado (PI) in Via Livornese 1291.
 
-Il Green Data Center è stato realizzato in un’area di proprietà dell’Ateneo che si trova all’interno del Parco di Migliarino, San Rossore Massaciuccoli (San Piero a Grado (PI) in Via Livornese 1291).
+The Green HPC Data Center was built in an area owned by University of Pisa which is located inside the Parco di Migliarino, San rossore massaciuccoli (San Piero a Grado (PI) in Via livornese 1291).
+
 
 .. image:: ./../images/maps.png
     :width: 400
     :alt: San Piero a Grado (PI) in Via Livornese 1291
 
-L’edificio che lo ospita, insieme ad alcuni laboratori dell’Istituto Nazionale di Fisica Nucleare (INFN), è stato adeguato alla nuova funzione, creando uno spazio unico per la sala macchine principale di circa 250 mq. La zona si trova circa a 8 km in linea d’aria dal centro di Pisa ed è raggiunta da un anello in fibra ottica, sempre di proprietà dell’Ateneo, che garantisce un elevato livello di connettività e di affidabilità. I tempi di realizzazione del Centro sono stati particolarmente serrati, da febbraio ad ottobre del 2016, soprattutto considerando la particolare localizzazione dell’immobile, in una zona con forti vincoli paesaggistici, e l’ammontare complessivo dell’intervento, circa 1milione e 400mila euro.
+The building that houses it, along with some laboratories of the National Institute of Nuclear Physics (INFN), has been adapted to the new function, creating a unique space for the main engine room of about 250 square meters. The area is located about 8 km from the centre of Pisa and is reached by a fiber optic ring, also owned by the University, which guarantees a high level of connectivity and reliability. 
+
+The construction time of the Centre was particularly tight, from February to October 2016, especially considering the particular location of the property, in an area with strong landscape constraints, and the total amount of the intervention, about 1.4 million euros.
