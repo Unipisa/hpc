@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Unipi HPC Resources Documentation'
-copyright = '2020, Fabio Pratelli, Guido Scatena'
-author = 'Fabio Pratelli, Guido Scatena'
+copyright = '2020, Università di Pisa'
+author = 'Università di Pisa'
 
 
 # -- General configuration ---------------------------------------------------
