@@ -1,3 +1,4 @@
 build/
 # aspell backup files
 *.bak
+*/_build/
