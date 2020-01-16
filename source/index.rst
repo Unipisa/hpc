@@ -21,6 +21,9 @@ Welcome to Unipi HPC Resources Documentation's documentation!
     access/generating_keys_with_openssh_on_osx
     usage/execute_interactive_job
     monitor/monitor
+    hardware/san-piero
+    hardware/ing
+    hardware/inf
 
 
 
