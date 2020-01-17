@@ -16,6 +16,6 @@ The Green HPC Data Center was built in an area owned by University of Pisa which
     :width: 400
     :alt: San Piero a Grado (PI) in Via Livornese 1291
 
-The building that houses it, along with some laboratories of the National Institute of Nuclear Physics (INFN), has been adapted to the new function, creating a unique space for the main engine room of about 250 square meters. The area is located about 8 km from the centre of Pisa and is reached by a fiber optic ring, also owned by the University, which guarantees a high level of connectivity and reliability. 
+The building that houses it has been adapted to the new function, creating a unique space for the main engine room of about 250 square meters. The area is located about 8 km from the centre of Pisa and is reached by a fiber optic ring, also owned by the University, which guarantees a high level of connectivity and reliability. 
 
 The construction time of the Centre was particularly tight, from February to October 2016, especially considering the particular location of the property, in an area with strong landscape constraints, and the total amount of the intervention, about 1.4 million euros.
