@@ -86,10 +86,11 @@ html_theme_options = {
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
-    'titles_only': False
+    'titles_only': False,
+    #'last_updated' :  '%m/%d/%Y'
 }
 
-html_last_updated_fmt = '%m/%d/%Y'
+#html_last_updated_fmt = '%m/%d/%Y'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -189,3 +190,24 @@ epub_exclude_files = ['search.html']
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
+
+from datetime import date
+
+
+def change_today_fmt(app, docname, source):
+    if docname == 'foo':
+        app.config.today_fmt = '%B %d, %Y'
+    else:
+        app.config.today_fmt = '%B/%d/%Y'
+
+
+def change_last_updated(app, pagename, templatename, context, docname):
+    if pagename == 'foo':
+        context['last_updated'] = date.today()#.strftime('%B %d, %Y')
+    else:
+        context['last_updated'] = date.today()#.strftime('%B/%d/%Y')
+
+
+def setup(app):
+    app.connect('source-read', change_today_fmt)
+    app.connect('html-page-context', change_last_updated)
