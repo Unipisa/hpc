@@ -17,6 +17,7 @@ Welcome to Unipi HPC Resources Documentation's documentation!
     
 
     info/about
+    info/current_and_future
     info/resources
     access/resources_request
     access/access
@@ -24,6 +25,7 @@ Welcome to Unipi HPC Resources Documentation's documentation!
     access/generating_keys_with_putty
     access/generating_keys_with_openssh_on_osx
     usage/execute_interactive_job
+    usage/execute_batch_job
     monitor/monitor
     hardware/san-piero
     hardware/ing
