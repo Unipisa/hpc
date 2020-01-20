@@ -7,11 +7,15 @@ Welcome to Unipi HPC Resources Documentation's documentation!
 =============================================================
 
 
+.. include::
+    news/news.rst
+
 .. toctree::
     :maxdepth: 3
     :numbered:
     :caption: Contents
     
+
     info/about
     info/resources
     access/resources_request
@@ -34,3 +38,7 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. |date| date::
+
+Last Updated on |date|
