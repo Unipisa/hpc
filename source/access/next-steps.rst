@@ -12,3 +12,5 @@ on a regular basis.
 
 Information on our training program and the schedule is available on the
 `VSC website <VSC training_>`_.
+
+.. include:: /date/date.rst

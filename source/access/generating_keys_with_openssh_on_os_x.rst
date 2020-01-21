@@ -19,3 +19,5 @@ Generating a public/private key pair
 Generating a public/private key pair is identical to what is described
 for the :ref:`linux client <generating keys linux>`, that is, by using the ssh-keygen command
 in a Terminal window.
+
+.. include:: /date/date.rst

@@ -1,7 +1,7 @@
 .. _generating keys windows:
 
 Generating keys with PuTTY
-==========================
+----------------------------
 
 Prerequisite: PuTTY
 -------------------
@@ -87,3 +87,4 @@ can be used by Eclipse.
    :alt: Filled PuTTYgen screen
 
 .. .. include:: links.rst
+.. include:: /date/date.rst

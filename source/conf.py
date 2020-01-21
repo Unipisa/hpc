@@ -211,3 +211,11 @@ def change_last_updated(app, pagename, templatename, context, docname):
 def setup(app):
     app.connect('source-read', change_today_fmt)
     app.connect('html-page-context', change_last_updated)
+
+html_static_path = ['_static']
+
+html_context = {
+    'css_files': [
+        '_static/theme_overrides.css',  # override wide tables in RTD theme
+        ],
+     }

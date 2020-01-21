@@ -6,30 +6,25 @@
 Welcome to Unipi HPC Resources Documentation's documentation!
 =============================================================
 
+.. include::
+    news/intro.rst
 
 .. include::
     news/news.rst
 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 1
     :numbered:
     :caption: Contents
     
 
-    info/about
-    info/current_and_future
-    info/resources
-    access/resources_request
-    access/access
-    access/generating_keys_with_openssh
-    access/generating_keys_with_putty
-    access/generating_keys_with_openssh_on_osx
-    usage/execute_interactive_job
-    usage/execute_batch_job
-    monitor/monitor
-    hardware/san-piero
-    hardware/ing
-    hardware/inf
+    about
+    hardware
+    resources_request
+    access
+    execute_batch_job
+    monitor
+ 
 
 
 
@@ -41,6 +36,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. |date| date::
-
-Last Updated on |date|
+.. include:: /date/date.rst

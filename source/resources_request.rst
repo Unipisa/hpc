@@ -50,3 +50,5 @@ describe the generation of key pairs in the client sections for
 .. .. include:: generating_keys_with_putty.rst
 .. .. include:: generating_keys_with_openssh_on_os_x.rst
 
+.. include:: /date/date.rst
+

@@ -2,3 +2,7 @@
 https://vscdocumentation.readthedocs.io/en/latest/gent/tier2_hardware.html
 
 https://vscdocumentation.readthedocs.io/en/latest/
+
+
+alla fine di ogni file mettere
+.. include:: /date/date.rst

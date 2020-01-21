@@ -110,3 +110,5 @@ Links
 -  `ssh manual page`_
 
 .. .. include:: links.rst
+
+.. include:: /date/date.rst
