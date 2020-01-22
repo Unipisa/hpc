@@ -27,28 +27,8 @@ Account liability
      The procedure is explained on ":ref:`create key pair`".
 
 
-.. _create key pair:
 
-Create a public/private key pair
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-A key pair consists of a private and a public key.
-
-#. The private key is stored on the computer(s) you use to access the VSC
-   infrastructure and always stays there.
-#. The public key is stored on the  VSC systems you want to access, allowing
-   to prove your identity through the corresponding private key.
-  
-How to generate such a key pair depends on your operating system. We
-describe the generation of key pairs in the client sections for
-
-- :ref:`Linux<generating keys linux>`,
-- :ref:`Windows <generating keys windows>` and
-- :ref:`macOS<generating keys macos>` (formerly OS X).
-
-.. .. include:: generating_keys_with_openssh.rst
-.. .. include:: generating_keys_with_putty.rst
-.. .. include:: generating_keys_with_openssh_on_os_x.rst
+.. .. include:: craete_keys.rst
 
 .. include:: /date/date.rst
 
