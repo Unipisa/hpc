@@ -19,7 +19,7 @@ describe the generation of key pairs in the client sections for
 - :ref:`macOS<generating keys macos>` (formerly OS X).
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :numbered:
     :caption: Contents
 
