@@ -1,4 +1,4 @@
 NEWS
 ----------------------------
 
-- February 14 : Datacenter Event
+- February 14, 2020 : Datacenter Presentation Event

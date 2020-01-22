@@ -18,12 +18,12 @@ Welcome to Unipi HPC Resources Documentation's documentation!
     :caption: Contents
     
 
-    about
-    hardware
-    resources_request
-    access
-    execute_batch_job
-    monitor
+    ABOUT Unipi HPC <about>
+    List of available RESOURCES<hardware>
+    How to REQUEST resources<resources_request>
+    How to ACCESS to resources<access>
+    How to USE resources<use>
+    Resources MONITORING and ACCOUNTING<monitor>
  
 
 
