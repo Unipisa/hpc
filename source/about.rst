@@ -1,6 +1,8 @@
 About Unipi HPC
 ===================
 
+.. TODO: sottolineare green e possibilità espansione 
+
 The Unipi HPC Datacenter (**UnipiHPC**) is ...
 
 .. image:: ./images/data_center_macchine.jpg

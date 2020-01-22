@@ -14,6 +14,10 @@ More in details can be found in the following table.
    :file: hardware/resources.csv
    :header-rows: 1
 
+.. TODO: fotine hw insieme
+
+.. TODO: descrizione qualche cluster con fotine
+
 .. image:: ./images/cluster_front.jpg
     :width: 400
 ..    :alt: San Piero a Grado (PI) in Via Livornese 1291

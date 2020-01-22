@@ -2,7 +2,7 @@
 Resources monitoring and accounting
 *************************************
 
-Monitoring is a important part of assuring resource availability and correct use.  
+Monitoring is an important part of assuring resource availability and correct use.  
 
 We monitor resource usage with realtime dashboards and alarms.
 
@@ -29,11 +29,11 @@ and `NetData <https://www.netdata.cloud/>`_
 
 Next state
 """"""""""""""""""
-User will realize usage data collection and datawarehouse.
+We plan to realize usage data collection and data-warehouse.
 
-The goal is the production of usage reports allowing to understand 
+The goal is the production of *usage reports* allowing to understand 
 *who* uses *what* for *what purpose*, 
-and to provide resource accounting.
+and to provide *resource accounting and billing*.
 
 
     .. include:: /date/date.rst

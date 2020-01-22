@@ -1,8 +1,8 @@
 Current State and Future Development
 ----------------------------------------
-.. TODO
+.. TODO: LINKARE
 
-All the technical documentation is structured by "states":
+All the technical documentation reflects the current "state" and structured by "states":
 
 * **Current state** describe the current solutions; 
 * **Next state** describe what is the project for the future.
