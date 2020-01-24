@@ -2,8 +2,8 @@
 List of available resources
 **********************************
 
-Ateneo
-######
+Hardware
+###########
 
 The Unipi HPC Datacenter offers more than 100 nodes, allowing to run more than 2000 parallel processes, and may advanced GPU.
 More in details can be found in the following table.
@@ -30,7 +30,15 @@ More in details can be found in the following table.
     :width: 400
 ..    :alt: San Piero a Grado (PI) in Via Livornese 1291
 
-.. include:: /hardware/san-piero.rst
+Example of cluster machine
+''''''''''''''''''''''''''''''
+Il cluster è fatto da head node 
+TODO
+
+Example of non-clustered machine
+''''''''''''''''''''''''''''''
+Il cluster è fatto da head node 
+TODO
 
 .. include:: /date/date.rst
 

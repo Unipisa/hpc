@@ -11,7 +11,7 @@ Restrictions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Membership to `Università di Pisa <http://www.unipi.it>`_ is verified through 
-`Autenticazione UNIPI <https://authportal.unipi.it/>`_.
+`Autenticazione UNIPI <https://autenticazione.unipi.it>`_.
 
 
 Account liability

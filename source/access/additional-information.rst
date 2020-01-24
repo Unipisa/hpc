@@ -8,13 +8,11 @@ Linux operating system on the clusters. The infrastructure also should
 not be used to run applications for which the compute power of a good
 laptop is sufficient. 
 
-The pages on the 
-.. :ref:`tier1 hardware` and :ref:`tier2 hardware`
-
+The pages on the TODO and TODO
 in this part of the website give a high-level description of our
 infrastructure. You can find more detailed information in the user
 documentation on the user portal. When in doubt, you can also contact
-your `local support team <get in touch_>`_. This does not require a Unipi HPC account but only a Unipi account.
+your `local support team <get in touch_>` TODO_. This does not require a Unipi HPC account but only a Unipi account.
 
 Your account also includes two blocks of disk space: your home
 directory and data directory. Both are accessible from all Unipi HPC clusters.

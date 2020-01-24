@@ -1,7 +1,6 @@
 About Unipi HPC
 ===================
 
-.. TODO: sottolineare green e possibilità espansione 
 
 The Unipi HPC Datacenter (**UnipiHPC**) is ...
 
@@ -29,6 +28,8 @@ The construction time of the Centre was particularly tight, from February to Oct
     :numbered:
     :caption: Contents
     
+    ./info/san-piero
+    ./info/current_and_future
     ./../gallery/gallery
 
 
