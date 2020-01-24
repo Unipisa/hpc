@@ -22,4 +22,17 @@ The building that houses it has been adapted to the new function, creating a uni
 
 The construction time of the Centre was particularly tight, from February to October 2016, especially considering the particular location of the property, in an area with strong landscape constraints, and the total amount of the intervention, about 1.4 million euros.
 
+
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Contents
+    
+    ./../gallery/gallery
+
+
 .. include:: /date/date.rst
+
+
+
