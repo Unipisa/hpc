@@ -23,10 +23,10 @@ Scheduler acess
     :numbered:
     :caption: Contents
     
-    generating_keys_with_openssh
-    generating_keys_with_putty
-    generating_keys_with_openssh_on_osx
-    data_transfer_with_scp_sftp
-    execute_interactive_job
+    access/generating_keys_with_openssh
+    access/generating_keys_with_putty
+    access/generating_keys_with_openssh_on_osx
+    access/data_transfer_with_scp_sftp
+    access/execute_interactive_job
 
 .. include:: /date/date.rst

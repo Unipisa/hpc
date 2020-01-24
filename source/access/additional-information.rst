@@ -8,7 +8,9 @@ Linux operating system on the clusters. The infrastructure also should
 not be used to run applications for which the compute power of a good
 laptop is sufficient. 
 
-The pages on the :ref:`tier1 hardware` and :ref:`tier2 hardware`
+The pages on the 
+.. :ref:`tier1 hardware` and :ref:`tier2 hardware`
+
 in this part of the website give a high-level description of our
 infrastructure. You can find more detailed information in the user
 documentation on the user portal. When in doubt, you can also contact
@@ -19,7 +21,8 @@ directory and data directory. Both are accessible from all Unipi HPC clusters.
 When you log in to a particular cluster, you will also be assigned one
 or more blocks of temporary disk space, called scratch directories.
 Which directory should be used for which type of data, is explained in
-the page ":ref:`data location`".
+the page 
+.. ":ref:`data location`".
 
 Your Unipi HPC account does not give you access to all available software. You
 can use all free software and a number of compilers and other
