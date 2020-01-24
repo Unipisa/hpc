@@ -30,7 +30,6 @@ The construction time of the Centre was particularly tight, from February to Oct
 .. toctree::
     :glob:
     :maxdepth: 2
-    :numbered:
     :caption: Contents
 
     ./info/san-piero

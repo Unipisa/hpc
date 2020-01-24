@@ -8,8 +8,8 @@ Photo Gallery
 
 
 .. toctree::
+    :glob:
     :maxdepth: 2
-    :numbered:
     :caption: Contents
     
     location

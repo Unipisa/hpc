@@ -21,7 +21,6 @@ Scheduler acess
 .. toctree::
     :glob:
     :maxdepth: 2
-    :numbered:
     :caption: Contents
     
     access/generating_keys_with_openssh

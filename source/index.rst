@@ -15,7 +15,6 @@ Welcome to Unipi HPC Resources Documentation's documentation!
 .. toctree::
     :glob:
     :maxdepth: 1
-    :numbered:
     :caption: Contents
     
 

@@ -6,7 +6,6 @@ How to use resources
 .. toctree::
     :glob:
     :maxdepth: 2
-    :numbered:
     :caption: Contents
 
     ./usage/execute_interactive_job
