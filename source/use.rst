@@ -4,6 +4,7 @@ How to use resources
 
 
 .. toctree::
+    :glob:
     :maxdepth: 2
     :numbered:
     :caption: Contents

@@ -16,6 +16,10 @@ The Green HPC Data Center was built in an area owned by University of Pisa which
 .. image:: ./images/maps.png
     :width: 400
     :alt: San Piero a Grado (PI) in Via Livornese 1291
+.. image:: ./images/maps2.png
+    :width: 400
+    :alt: San Piero a Grado (PI) in Via Livornese 1291
+
 
 The building that houses it has been adapted to the new function, creating a unique space for the main engine room of about 250 square meters. The area is located about 8 km from the centre of Pisa and is reached by a fiber optic ring, also owned by the University, which guarantees a high level of connectivity and reliability. 
 
@@ -24,10 +28,11 @@ The construction time of the Centre was particularly tight, from February to Oct
 
 
 .. toctree::
+    :glob:
     :maxdepth: 2
     :numbered:
     :caption: Contents
-    
+
     ./info/san-piero
     ./info/current_and_future
     ./../gallery/gallery

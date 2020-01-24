@@ -13,6 +13,7 @@ Welcome to Unipi HPC Resources Documentation's documentation!
     news/news.rst
 
 .. toctree::
+    :glob:
     :maxdepth: 1
     :numbered:
     :caption: Contents
