@@ -2,15 +2,15 @@ Current State and Future Development
 ----------------------------------------
 .. TODO: LINKARE
 
-All the technical documentation reflects the current "state" and structured by "states":
+All the technical documentation describes the current state and the "next step":
 
 * **Current state** describe the current solutions; 
-* **Next state** describe what is the project for the future.
+* **Next step** describe what is the project for the future.
 
 Indeed, because the Data center is an evolving object, also the adopted technical solutions are evolving.
-The experience obtained analizyng the *current state* usage pattern makes emerge some critical points that we plan to tackle by the *next state*.   
+The experience obtained analizyng the *current state* usage pattern makes emerge some critical points that we plan to tackle by the *next step*.   
 
-Currently we are planning the following *next state* :
+Currently we are planning the following *next steps* :
 
 - LDAP user management
 

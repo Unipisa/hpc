@@ -27,7 +27,7 @@ and `NetData <https://www.netdata.cloud/>`_
     :width: 400
     :alt: example of resource monitoring with NetData
 
-Next state
+next steps
 """"""""""""""""""
 We plan to realize usage data collection and data-warehouse.
 

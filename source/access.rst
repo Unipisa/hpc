@@ -11,7 +11,7 @@ Direct access (ssh)
 Currently, once obtained access to resources, one user can log into the assigned resources via ssh and run job in time-sharing with other users.
 
 
-Next state
+next steps
 """""""""""""
 User will be 
 
