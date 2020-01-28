@@ -30,6 +30,8 @@ Photo Gallery
 .. .. include:: /workinprogress.rst
 .. .. include:: /details.rst
 
+.. include:: /date/date.rst
+
 
 
 

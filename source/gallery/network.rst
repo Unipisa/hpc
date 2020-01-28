@@ -8,3 +8,4 @@ Network
 .. image:: ./gallery_images/NET/_DSC7203-01.jpeg
 .. image:: ./gallery_images/NET/IMG_20200123_115224-01.jpeg
 
+.. include:: /date/date.rst

@@ -10,3 +10,5 @@ Cooling
 .. image:: ./gallery_images/COOLING/IMG_20200123_132323-01.jpeg
 .. image:: ./gallery_images/COOLING/IMG_20200123_132410-01.jpeg
 .. image:: ./gallery_images/COOLING/IMG_20200123_132450-01.jpeg
+
+.. include:: /date/date.rst

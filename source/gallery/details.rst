@@ -12,3 +12,5 @@ Details
 .. image:: ./gallery_images/DETAILS/_DSC7206-01.jpeg
 .. image:: ./gallery_images/DETAILS/_DSC7208-01.jpeg
 .. image:: ./gallery_images/DETAILS/_DSC7221-01.jpeg
+
+.. include:: /date/date.rst
