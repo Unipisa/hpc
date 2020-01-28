@@ -18,7 +18,7 @@ Account liability
 *********************************
 .. important:: Rules and conditions
 
-Users must accept the `rules and conditions of use <other/regolamento.pdf>`_ .
+Users must accept the `rules and conditions of use <_static/regolamento.pdf>`_ .
 
 .. warning::
 
