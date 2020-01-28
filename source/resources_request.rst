@@ -16,6 +16,9 @@ Membership to `Università di Pisa <http://www.unipi.it>`_ is verified through
 
 Account liability
 *********************************
+.. important:: Rules and conditions
+
+Users must accept the `rules and conditions of use <other/regolamento.pdf>`_ .
 
 .. warning::
 
