@@ -1,10 +1,28 @@
 
+progetto su readthedocs
+
+https://readthedocs.org/projects/unipi-hpc-doc/
+
+su github
+
+
+https://github.com/Unipisa/hpc
+
+online
+
+https://unipi-hpc-doc.readthedocs.io/
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Inpirata da
+
 https://vscdocumentation.readthedocs.io/en/latest/gent/tier2_hardware.html
 
 https://vscdocumentation.readthedocs.io/en/latest/
 
 ----------------------------------------------------------
------------------------------------------------------------
+----------------------------------------------------------
 
 alla fine di ogni file mettere
 .. include:: /date/date.rst

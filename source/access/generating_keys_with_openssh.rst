@@ -100,8 +100,6 @@ the following way:
 
    $ ssh-keygen -i -f ~/.ssh/id_rsa_4096_ssh.pub > ~/.ssh/id_rsa_4096_openssh.pub
 
-.. include:: links.rst
-
 
 Links
 -----

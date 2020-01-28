@@ -3,14 +3,14 @@ About Unipi HPC
 
 
 The Unipi HPC Datacenter (**UnipiHPC**) is a Data Center of `Università di Pisa <http://www.unipi.it>`_ for Computing@Unipi 
-buid with sustainability and 
+build with sustainability and 
 expandability in mind.
 
 .. image:: ./gallery/gallery_images/OUT/_DSC7130-01_header.jpeg
-    :width: 50%
+    :width: 400
 
 .. image:: ./gallery/gallery_images/DETAILS/_DSC7164-01_header.jpeg
-    :width: 50%
+    :width: 400
 
 .. .. image:: ./gallery/gallery_images/GROUP/_DSC7167-01_header_2.jpeg
 ..    :width: 100%
@@ -18,7 +18,7 @@ expandability in mind.
 
 
 .. image:: ./gallery/gallery_images/GROUP/_DSC7217-01_header_3.jpeg
-    :width: 50%
+    :width: 400
 ..    :alt: Alternative text
 
 
@@ -26,11 +26,11 @@ The HPC Data Center is built in an area owned by University of Pisa which is loc
 
 
 .. image:: ./images/maps.png
-    :width: 50%
+    :width: 400
     :alt: San Piero a Grado (PI) in Via Livornese 1291
 
 .. image:: ./images/maps2.png
-    :width: 50%
+    :width: 400
     :alt: San Piero a Grado (PI) in Via Livornese 1291
 
 

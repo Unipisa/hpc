@@ -23,10 +23,9 @@ Scheduler acess
     :maxdepth: 2
     :caption: Contents
     
-    access/generating_keys_with_openssh
-    access/generating_keys_with_putty
-    access/generating_keys_with_openssh_on_osx
-    access/data_transfer_with_scp_sftp
-    access/execute_interactive_job
+    ./access/generating_keys_with_openssh
+    ./access/generating_keys_with_putty
+    ./access/generating_keys_with_openssh_on_os_x
+    ./access/data_transfer_with_scp_sftp
 
 .. include:: /date/date.rst

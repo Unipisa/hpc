@@ -31,12 +31,12 @@ More in details can be found in the following table.
 ..    :alt: San Piero a Grado (PI) in Via Livornese 1291
 
 Example of cluster machine
-''''''''''''''''''''''''''''''
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Il cluster è fatto da head node 
 TODO
 
 Example of non-clustered machine
-''''''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Il cluster è fatto da head node 
 TODO
 
