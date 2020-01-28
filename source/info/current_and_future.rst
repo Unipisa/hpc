@@ -2,7 +2,8 @@ Current State and Future Development
 ----------------------------------------
 .. TODO: LINKARE
 
-All the technical documentation describes the current state and the "next step":
+As the Unipi Data center is an evolving project, all the technical documentation is structured by "states" :
+.. where **Current state** describe the current solutions, and **next steps** describe what is the project for the future.
 
 * **Current state** describe the current solutions; 
 * **Next step** describe what is the project for the future.
