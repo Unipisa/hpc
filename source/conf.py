@@ -80,7 +80,7 @@ html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
-    'vcs_pageview_mode': '',
+    #'vcs_pageview_mode': '',
     'style_nav_header_background': 'white',
     # Toc options
     'collapse_navigation': True,
@@ -213,7 +213,7 @@ def setup(app):
     app.connect('source-read', change_today_fmt)
     app.connect('html-page-context', change_last_updated)
 
-html_static_path = ['_static', 'other']
+html_static_path = ['_static']
 
 html_context = {
     'css_files': [
