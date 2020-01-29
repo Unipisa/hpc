@@ -6,7 +6,7 @@ Monitoring is an important part of assuring resource availability and correct us
 
 We monitor resource usage with realtime dashboards and alarms.
 
-In particular we use `Ganglia <http://ganglia.sourceforge.net/>`_
+In particular we use `Ganglia <http://ganglia.sourceforge.net/>`_ (`here a running example <http://131.114.142.190/ganglia/>`_)
 
 .. image:: ./images/ganglia-monitoring.png
     :width: 400
@@ -17,7 +17,7 @@ In particular we use `Ganglia <http://ganglia.sourceforge.net/>`_
     :alt: example of resource monitoring with Ganglia
 
 
-and `NetData <https://www.netdata.cloud/>`_
+and `NetData <https://www.netdata.cloud/>`_ (`here a running example <http://131.114.142.226:19999/mini.html>`_) 
 
 .. image:: ./images/netdata-monitoring.png
     :width: 400
