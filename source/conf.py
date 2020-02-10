@@ -37,17 +37,17 @@ author = 'Università di Pisa'
 
 extensions = [
 #    'sphinx_gallery.gen_gallery',
-    'sphinx_issues',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.doctest',
-    'sphinx.ext.viewcode',
+#    'sphinx_issues',
+#    'sphinx.ext.autodoc',
+#    'sphinx.ext.autosummary',
+#    'sphinx.ext.doctest',
+#    'sphinx.ext.viewcode',
 #    'sphinxarg.ext',
 #    'numpydoc',
-    'sphinx.ext.todo',
-    'sphinx.ext.coverage',
-    'sphinx.ext.ifconfig',
-    'sphinx.ext.autosectionlabel',
+#   'sphinx.ext.todo',
+#   'sphinx.ext.coverage',
+#   'sphinx.ext.ifconfig',
+#    'sphinx.ext.autosectionlabel',
 ]
 
 autosummary_generate = True
