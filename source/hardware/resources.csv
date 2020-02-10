@@ -17,5 +17,5 @@ DL580-GPU4,1,Intel Xeon Gold 6140M ,144,1280,1280,4 x Nv Tesla K80,144
 DL580-INF1,1,Intel Xeon Gold 5118 ,48,192,384,,96
 DL580-INF2,1,Intel Xeon Gold 5118 ,48,192,384,,96
 T640-TeslaT4,1,Intel Xeon Gold 6132 CPU ,56,384,384,4 x Nv Testla T4,56
-,,,,,,,,
+,,,,,,,
 20,120,2400,776,,32256,,8424
