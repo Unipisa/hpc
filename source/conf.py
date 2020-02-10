@@ -36,7 +36,7 @@ author = 'Università di Pisa'
 #pdf_documents = [('index', u'Unipi HPC Resources Documentation', u'Unipi HPC Resources Documentation', u'Fabio Pratelli, Guido Scatena'),]
 
 extensions = [
-    'sphinx_gallery.gen_gallery',
+#    'sphinx_gallery.gen_gallery',
     'sphinx_issues',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
