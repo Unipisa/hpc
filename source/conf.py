@@ -13,6 +13,11 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
+import sys
+import os
+
+from datetime import date
+
 
 
 # -- Project information -----------------------------------------------------
@@ -31,11 +36,29 @@ author = 'Università di Pisa'
 #pdf_documents = [('index', u'Unipi HPC Resources Documentation', u'Unipi HPC Resources Documentation', u'Fabio Pratelli, Guido Scatena'),]
 
 extensions = [
+    'sphinx_gallery.gen_gallery',
+    'sphinx_issues',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.doctest',
+    'sphinx.ext.viewcode',
+#    'sphinxarg.ext',
+#    'numpydoc',
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
     'sphinx.ext.autosectionlabel',
 ]
+
+autosummary_generate = True
+
+
+
+autodoc_default_flags = ['members', 'inherited-members']
+#numpydoc_class_members_toctree = False
+
+# generate autosummary even if no references
+autosummary_generate = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -61,7 +84,21 @@ master_doc = 'index'
 language = None
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = None
+pygments_style = 'sphinx'
+
+sphinx_gallery_conf = {
+    'backreferences_dir': 'gen_modules/backreferences',
+    # path to your examples scripts
+    #'examples_dirs': '../examples',
+    # path where to save gallery generated examples
+    'gallery_dirs': 'gallery',
+    'filename_pattern': r'/\w+',
+    #'doc_module': ('wordcloud',),
+    #'reference_url': {
+        # The module you locally document uses None
+    #    'wordcloud': None,
+    #}
+}
 
 # -- Options for HTML output -------------------------------------------------
 

@@ -7,6 +7,27 @@ Photo Gallery
 .. image:: ./gallery_images/DETAILS/_DSC7164-01_header.jpeg
 
 
+.. .. raw:: html
+
+..    <div class="sphx-glr-thumbcontainer" tooltip="Primo.">
+
+.. .. only:: html
+
+.. .. figure:: ./gallery_images/OUT/_DSC7130-01_header.jpeg
+
+..     :ref:`sphx_glr_auto_examples_single_word.py`
+
+.. .. raw:: html
+
+..    </div>
+
+
+.. .. toctree::
+   :hidden:
+
+..   /auto_examples/primo
+
+
 .. toctree::
     :glob:
     :maxdepth: 2
