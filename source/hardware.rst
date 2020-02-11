@@ -18,27 +18,16 @@ More in details can be found in the following table.
 
 .. TODO: descrizione qualche cluster con fotine
 
-.. image:: ./images/cluster_front.jpg
-    :width: 400
-..    :alt: San Piero a Grado (PI) in Via Livornese 1291
 
-.. image:: ./images/cluster_rear.jpg
-    :width: 400
-..    :alt: San Piero a Grado (PI) in Via Livornese 1291
-
-.. image:: ./images/cooling.jpg
-    :width: 400
-..    :alt: San Piero a Grado (PI) in Via Livornese 1291
-
-Example of cluster machine
+.. Example of cluster machine
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-Il cluster è fatto da head node 
-TODO
+.. Il cluster è fatto da head node 
+.. TODO
 
-Example of non-clustered machine
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-Il cluster è fatto da head node 
-TODO
+.. Example of non-clustered machine
+.. ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+.. Il cluster è fatto da head node 
+.. TODO
 
 .. include:: /date/date.rst
 

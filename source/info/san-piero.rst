@@ -10,28 +10,16 @@ Organizzato ad isole; composto da 6 isole (5 di calcolo, una di networking).
 
 Ogni isola è strutturata secondo ISOLA CALDA/ISOLA FREDDA.
 
-Efficient Cooling
-*********************
-
+Efficient Cooling:
 L'intero data center è rafreddato utilizzando tecnologia ADIABATICA .. 
 TODO
 
-Network
-*********************
-
-La rete è progettata per  
+Network: La rete è progettata per  
 TODO
 
 Inter-island connection
-^^^^^^^^^^^^^^^^^^^^^^^^
-TODO
-
 Extra-island connection
-^^^^^^^^^^^^^^^^^^^^^^^^
-TODO
 
-Power
-*********************
+Power:
 
-Espandibilità
-*********************
+Espandibilità:
