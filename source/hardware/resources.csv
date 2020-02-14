@@ -1,4 +1,4 @@
-Cluster name,nodes,cpu ,cores,RAM ,TOT RAM,GPU ,tot cores
+Cluster Name,Nodes Nr.,CPU,Nr. Cores,RAM(GB),TOT RAM(GB),GPU ,Tot.Nr. Cores
 OpenHPC1,16,Intel Xeon Silver 4114,40,128,8192,,640
 OpenHPC2,16,Intel Xeon Silver 4114,40,128,8192,,640
 OpenHPC3,16,Intel Xeon Silver 4114,40,128,8192,,640
@@ -18,4 +18,4 @@ DL580-INF1,1,Intel Xeon Gold 5118 ,48,192,384,,96
 DL580-INF2,1,Intel Xeon Gold 5118 ,48,192,384,,96
 T640-TeslaT4,1,Intel Xeon Gold 6132 CPU ,56,384,384,4 x Nv Testla T4,56
 ,,,,,,,
-20,120,2400,776,,32256,,8424
+Tot. 18,173,,1600,11904,79744,20,10984

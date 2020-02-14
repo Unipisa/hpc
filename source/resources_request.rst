@@ -14,11 +14,10 @@ Membership to `Università di Pisa <http://www.unipi.it>`_ is verified through
 `Autenticazione UNIPI <https://autenticazione.unipi.it>`_.
 
 
-Account liability
+rules and conditions of use
 *********************************
-.. important:: Rules and conditions
 
-Users must accept the `rules and conditions of use <_static/regolamento.pdf>`_ .
+Users must read and accept the `rules and conditions of use <_static/regolamento.pdf>`_ and its `technical attachment <_static/regolamento_allegato.pdf>`_ .
 
 .. warning::
 

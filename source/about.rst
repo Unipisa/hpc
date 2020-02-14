@@ -6,23 +6,23 @@ build with sustainability and
 expandability in mind.
 
 .. image:: ./gallery/gallery_images/OUT/_DSC7130-01_header.jpeg
-    :width: 400
+    :width: 600
 
 .. image:: ./gallery/gallery_images/DETAILS/_DSC7164-01_header.jpeg
-    :width: 400
+    :width: 600
 
 .. image:: ./gallery/gallery_images/GROUP/_DSC7217-01_header_3.jpeg
-    :width: 400
+    :width: 600
 ..    :alt: Alternative text
 
 The HPC Data Center is built in an area owned by University of Pisa which is located inside the Parco di Migliarino, San rossore massaciuccoli (San Piero a Grado (PI) in Via livornese 1291).
 
 .. image:: ./images/maps.png
-    :width: 400
+    :width: 600
     :alt: San Piero a Grado (PI) in Via Livornese 1291
 
 .. image:: ./images/maps2.png
-    :width: 400
+    :width: 600
     :alt: San Piero a Grado (PI) in Via Livornese 1291
 
 The building has been adapted to the new function, creating a unique space for the main engine room of about 250 square meters. The area is located about 8 km from the centre of Pisa and is reached by a fiber optic ring, also owned by the University, which guarantees a high level of connectivity and reliability. 
