@@ -17,7 +17,7 @@ Membership to `Università di Pisa <http://www.unipi.it>`_ is verified through
 rules and conditions of use
 *********************************
 
-Users must read and accept the `rules and conditions of use <_static/regolamento.pdf>`_ and its `technical attachment <_static/regolamento_allegato.pdf>`_ .
+Users must read and accept the `rules and conditions of use <_static/linee_guida.pdf>`_ and its `technical attachment <_static/linee_guida_allegato_tecnico.pdf>`_ .
 
 .. warning::
 
