@@ -108,6 +108,7 @@ sphinx_gallery_conf = {
 #html_theme = 'alabaster'
 #html_theme = 'classic'
 html_theme = "sphinx_rtd_theme"
+
 html_logo = "images/marchio_unipi_black288.gif"
 
 html_theme_options = {

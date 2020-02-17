@@ -5,7 +5,7 @@ List of available resources
 Hardware
 ###########
 
-The Unipi HPC Datacenter offers more than 15 machines corresponding to more than 150 nodes, allowing to run more than 10000 parallel processes, and 20 advanced GPU.
+The Unipi HPC Datacenter offers more than 15 machines corresponding to **more than 150 nodes**, allowing to run **more than 10k parallel processes**, and **20 advanced GPU**.
 More in details can be found in the following table.
 
 

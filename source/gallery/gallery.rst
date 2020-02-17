@@ -2,13 +2,13 @@
 
 Photo Gallery
 ===================
-.. image:: ./gallery/gallery_images/OUT/_DSC7130-01_header.jpeg
+.. image:: ./gallery_images/OUT/_DSC7130-01_header.jpeg
     :width: 600
 
-.. image:: ./gallery/gallery_images/DETAILS/_DSC7164-01_header.jpeg
+.. image:: ./gallery_images/DETAILS/_DSC7164-01_header.jpeg
     :width: 600
 
-.. image:: ./gallery/gallery_images/GROUP/_DSC7217-01_header_3.jpeg
+.. image:: ./gallery_images/GROUP/_DSC7217-01_header_3.jpeg
     :width: 600
 
 .. .. raw:: html
