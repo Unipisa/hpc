@@ -1,0 +1,128 @@
+UTILIZZO
+
+Caricamento dati via sftp, pull repository da github e allenamento di modelli di machine learning su gpu
+Analysis of marine heatwaves
+test per valutare il numero di nodi/processori per valutare l'efficienza e/o il tempo di calcolo complessivo prima di lanciare una simulazione
+Mainly experiments for research. Little to no GPU usage, mainly software running multi-core and single-core CPU.
+Training e testing di modelli Machine Learning per alberi.
+esperimenti deep learning
+Ho caricato del codice per far girare un algoritmo di deep learning per NLP, ma non sono riuscito a farlo partire perché tra fine dicembre e inizio gennaio tutte le GPU erano occupate al 100% da altri utenti. Ora vedo che non è più così, quindi spero di riuscire a utilizzare maggiormente queste risorse nei prossimi giorni.
+Esecuzione in parallelo di esperimenti di Machine Learning.
+Lanciato esperimenti CPU-intensive su più nodi con Slurm
+Addestramento modelli di Machine Learning per scopi di ricerca
+I launched the optimization solver CPLEX on several instances of a mathematical programming problem, and with different parameter configurations.
+To train an Italian Version of GPT-2 (https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
+Abaqus simulations.
+Esperimenti di ML
+Testing di modelli di deep learning per fini accademici
+Utilizzo di FileZilla e Putty in combinazione con le risorse di calcolo - Utilizzo di Ansys per le simulazioni
+Simulazione FE
+
+
+loading data via sftp pull repository from github and training of machine learning models on gpu
+marine heat wave analysis
+test to evaluate the number of nodes  processors to evaluate the update and  or the overall calculation time before launching a simulation
+mainly experiments for research. use of the minimum or zero gpus, mainly software with multi-core and single-core cpus
+training and testing of machine learning models for trees.
+deep learning experiments
+i loaded the code to make a deep learning algorithm for nlp work
+parallel execution of machine learning experiments
+cpu intensive multi-core experiment launched with slurm
+machine learning models training for research purposes
+i launched the cplex optimization solver on different instances of a math programming problem and with different parameter configurations
+to train an italian version of gpt-2 
+abaqus simulations
+machine learning experiments
+test of deep learning models for academic purposes
+use of filezilla and putty in combination with computing resources - use of ansys for simulations
+fe simulation
+
+"weight";"word";"color";"url"
+"8";"learning";"";""
+"5";"experiments";"";""
+"5";"machine";"";""
+"4";"models";"";""
+"4";"simulation";"";""
+"4";"training";"";""
+"3";"computing";"";""
+"3";"deep";"";""
+"3";"testing";"";""
+"2";"evaluate";"";""
+"2";"launched";"";""
+"2";"multi-core";"";""
+"2";"purposes";"";""
+"2";"research";"";""
+"1";"abaqus";"";""
+"1";"academic";"";""
+"1";"algorithm";"";""
+"1";"analysis";"";""
+"1";"ansys";"";""
+"1";"code";"";""
+"1";"combination";"";""
+"1";"configurations";"";""
+"1";"cplex";"";""
+"1";"cpu";"";""
+"1";"cpus";"";""
+"1";"data";"";""
+"1";"gpu";"";""
+"1";"gpus";"";""
+"1";"heat";"";""
+"1";"instances";"";""
+"1";"intensive";"";""
+"1";"launching";"";""
+"1";"marine";"";""
+"1";"math";"";""
+"1";"minimum";"";""
+"1";"nlp";"";""
+"1";"nodes";"";""
+"1";"number";"";""
+"1";"optimization";"";""
+"1";"parallel";"";""
+"1";"parameter";"";""
+"1";"processors";"";""
+"1";"resources";"";""
+"1";"single-core";"";""
+"1";"solver";"";""
+"1";"time";"";""
+"1";"wave";"";""
+
+risorse
+
+One gpu at a time, a few days (3-4) of calculation, 20 GB on disk for data and results
+cluster of 7 nodes, 36 cores per node, 125 GB; used almost continuously
+The number of cores and the RAM memory depend a lot on the simulation that I have to carry out. It can happen to unify hundreds of CPUs. I choose the number of cpu so that the account can remain below 24 hours. Overall, I use tens of thousands of core * hours for each research project
+Servers with high uptime, 12+ available cores, 32GB + RAM, ~ 64GB + disk.
+Usually 10 CPUs for parallel training, for a period ranging from 6/8 hours to a single configuration per week for the entire model selection. Disk space is mainly used for datasets and libraries, around 20GB.
+32 cores max, 2 gpu max
+CPU core number: 1 GPU number: 1 Memory: 50 GB Computing time: ~ 1 hour per session Disk space: 30 GB
+I carry out two types of experiments: - CPU-intensive (core number: 80, RAM memory: 250 GB) - GPU-intensive (GPU number: from 2 to 4, disk space: 50 GB)
+From 10 to 15 CPU, taking advantage of all available threads. Maximum duration 2 hours. Maximum 2GB memory.
+Variable, but to work without problems 50 CPU cores, 1 GPU, 50GB of RAM, 100GB of space
+I used 36 CPU cores. Each experiment was single-threaded, used 100% of the CPU power ("% cpu" in "top") and 0.1% of memory ("% mem" in "top"). Each core was kept busy for something less than 5 days.
+I have been using 4 GPUs in parallel for 4 weeks. The job required also 30GB of RAM. I also used 100GB of disks to store training data and checkpoints
+I needed a relatively high number of cores (more than 12) and, most of all, a quantity of RAM of about 100 GB.
+Many CPU and memory
+GPU: based on availability (from 1 to 3, if no one else was logged in) CPU: what was required by the benchmark test (I did not limit the number of cores, htop marked 1000-2000%) Time: from 1 day to 2- 3 weeks, depending on the HD model: 13 GB RAM: Mainly that of the GPU
+Use of 72 cores, no GPU, about 600 GB of memory and in the year 2019 about 2 weeks of computing time
+CPU number: 68, GPU number: 0, RAM: 100GB, Computing time: 20 days, Disk space: 10TB
+
+vantaggi
+
+ease of use and no cost
+increased computation capacity and guidance at early stages
+personal resources and rental are highly budget dependent.
+i've never rented any cloud service. with respect to my personal resources, a larger number of cores and ram
+being able to parallelize on multiple cores.
+greater calculation capacity and speed
+the university computing resources offer me a significant advantage in terms of cost compared to cloud resources, and in terms of computing time compared to personal resources
+the costs of using cloud resources are not suitable for continuous use (weeks experiments)
+compared to the cloud, the costs and not having to register (even the free trials require a non-prepaid credit card)
+low cost, extreme performance
+i would have never had that many cores on my pc, for free.
+using the provided machine was easier than configuring virtual machine on cloud. also to use personal computing resource was impossible due to the high computation required. finally the cost of the cloud would be impossible to be covered with my budget
+
+i didn't have the computational power to complete my simulations. therefore, the advantage was that i was able to perform heavy simulations, otherwise impossible with the resources i had
+i have only one gpu on the office computer, gtx1060, 6gb. on this i can launch experiments only on some (small) datasets
+many cpus are usually not available
+being able to perform simulations that are impossible to run on your personal computer as they are too expensive from the point of view of calculation time
+i did not have sufficient personal resources to carry out simulations of this scale
