@@ -1,4 +1,4 @@
-Cluster Name,Nodes Nr.,CPU,Nr. Cores,RAM(GB),TOT RAM(GB),GPU ,Tot.Nr. Cores
+Cluster Name,Nodes#,CPU,Cores#,RAM#GB,TotRAM#GB,GPU,TotCores#
 OpenHPC1,16,Intel Xeon Silver 4114,40,128,8192,,640
 OpenHPC2,16,Intel Xeon Silver 4114,40,128,8192,,640
 OpenHPC3,16,Intel Xeon Silver 4114,40,128,8192,,640
