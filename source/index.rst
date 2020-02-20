@@ -21,8 +21,8 @@ Welcome to Unipi HPC Resources Documentation's documentation!
     ABOUT Unipi HPC <about>
     List of available RESOURCES<hardware>
     How to REQUEST resources<resources_request>
-    How to ACCESS to resources<access>
-    How to USE resources<use>
+..    How to ACCESS to resources<access>
+..    How to USE resources<use>
     Resources MONITORING and ACCOUNTING<monitor>
  
 

@@ -14,7 +14,7 @@ Membership to `Università di Pisa <http://www.unipi.it>`_ is verified through
 `Autenticazione UNIPI <https://autenticazione.unipi.it>`_.
 
 
-rules and conditions of use
+Rules and conditions of use
 *********************************
 
 Users must read and accept the `rules and conditions of use <_static/linee_guida.pdf>`_ and its `technical attachment <_static/linee_guida_allegato_tecnico.pdf>`_ .

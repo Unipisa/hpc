@@ -35,8 +35,8 @@ The construction time of the Centre was particularly tight, from February to Oct
     :maxdepth: 2
     :caption: Contents
 
-    ./info/san-piero
-    ./info/current_and_future
+..    ./info/san-piero
+..    ./info/current_and_future
     ./../gallery/gallery
 
 
